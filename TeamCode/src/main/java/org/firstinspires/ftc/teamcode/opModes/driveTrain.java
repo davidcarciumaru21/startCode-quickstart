@@ -1,4 +1,4 @@
 package org.firstinspires.ftc.teamcode.opModes;
 
-public class mainAuto {
+public class driveTrain {
 }
